@@ -139,7 +139,7 @@ def processar_triagem():
         # ----------------------------------------------------------------------
 
         payload = {
-            "model": "openrouter/free",
+            "model": "poolside/laguna-s-2.1:free",
             "messages": [
                 {
                     "role": "system",
